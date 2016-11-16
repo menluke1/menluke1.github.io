@@ -6,6 +6,7 @@ p {
     color: white;
 }
 
+
     
 html {
 background: #505D6E url("History of NBA_files/imgres-1.jpg") no-repeat center center fixed;
@@ -33,4 +34,8 @@ min-height: 100%;
     -0-background-size: cover;
     background-size: cover;  
     }
+    p {
+    color: Black;
 }
+
+    
